@@ -20,3 +20,4 @@ This repository contains technical articles, interview preparation, scripts, and
 - Scripts & Resources
 
 ⭐ Feel free to explore and connect with me on LinkedIn.
+linkedin: https://www.linkedin.com/in/divya-lalitha-k/
